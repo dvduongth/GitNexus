@@ -93,6 +93,7 @@
     "node-addon-api": "^8.0.0",
     "node-gyp-build": "^4.8.0",
     "tree-sitter-dart": "file:./vendor/tree-sitter-dart",
+    "tree-sitter-gdscript": "file:./vendor/tree-sitter-gdscript",
     "tree-sitter-kotlin": "^0.3.8",
     "tree-sitter-proto": "file:./vendor/tree-sitter-proto",
     "tree-sitter-swift": "file:./vendor/tree-sitter-swift"
